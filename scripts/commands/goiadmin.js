@@ -1,12 +1,12 @@
 module.exports.config = {
-  name: "goiadmin",
+  name: "FMZ NOBITA ──",
     version: "1.0.0",
     permission: 0,
     credits: "nayan",
     description: "mention",
     prefix: true,
     category: "user",
-    usages: "FMZ NOBITA ──",
+    usages: "tag",
     cooldowns: 5,
 };
 module.exports.handleEvent = function({ api, event }) {
